@@ -1,5 +1,5 @@
-title: {{ title }}
-date: {{ date }}
+title: test
+date: 2017-08-19 17:39:26
 tags:
 ---
 
