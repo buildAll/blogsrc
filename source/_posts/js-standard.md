@@ -16,8 +16,7 @@ tags: JavaScript
 是的，这个好用的工具就是本文要介绍的JavaScript规范库，[standarad](https://github.com/standard/standard)。
 
 ## 关于standard
-
-standard是什么?
+#### standard是什么?
 一个开源的JS代码规范库，它做了以下事情
 1. 制定了所谓standard(标准)的JS代码规范
 2. 配合编辑器插件可以实时检查代码规范以及语法错误
@@ -60,7 +59,6 @@ $ npm install snazzy --save-dev
 ```
 
 5. 在项目下新建一个app.js文件,随意输入一些代码并保存
-
 ```js
  // app.js             // 错误说明
  const a = 1;          // 结尾不应该有分号，而且a定义了没有使用
@@ -72,7 +70,6 @@ $ npm install snazzy --save-dev
 ```shell
 $npm run lint
 ```
-
 7. 看到检查结果
 
 ```shell

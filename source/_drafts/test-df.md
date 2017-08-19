@@ -1,5 +1,5 @@
-title: {{ title }}
-date: {{ date }}
+title: test-df
+date: 2017-08-19 18:27:27
 tags:
 ---
 
