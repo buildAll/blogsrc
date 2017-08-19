@@ -1,1 +1,1 @@
-[my blog](codinghigh.cn)hexo project
+A hexo project of [my blog](codinghigh.cn)
