@@ -1,2 +1,1 @@
-# My Blog
-This is my blog
+[my blog](codinghigh.cn)hexo project
