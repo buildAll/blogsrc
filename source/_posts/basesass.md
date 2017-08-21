@@ -1,13 +1,19 @@
+---
 title: 用于生成基础样式的base.sass文件
 date: 2015-11-16 23:38:02
-categories: CSS
-tags: sass
+excerpt: '我写了一个base.sass文件用于生成项目中的base.css。你可以在这里看到源码https://github.com/buildAll/base.sass-for-base.css/blob/master/base.sass,下面贴出base.sass的代码'
+banner:
+  url: /images/sass-logo.png
+categories: 
+ - CSS
+ - sass
+tags: 
+ - sass
 ---
 
 我写了一个base.sass文件用于生成项目中的base.css。你可以在这里看到源码
 
 [https://github.com/buildAll/base.sass-for-base.css/blob/master/base.sass](https://github.com/buildAll/base.sass-for-base.css/blob/master/base.sass)
-
 
 下面贴出base.sass的代码:
 

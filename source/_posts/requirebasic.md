@@ -1,7 +1,15 @@
+---
 title: 快速上手require.js
 date: 2015-11-23 16:07:19
-categories: 开发工具
-tags: requirejs
+excerpt: 'requriejs是一个js插件，这个插件可以在各种js运行环境里自动、异步加载js文件。前端js代码越来越多，如果使用模块化开发，可以降低代码藕合，提高代码的可维护性。而requirejs可以比较好的支持的js模块化开发思想。'
+banner:
+  url: /images/javascript_logo/js.jpg
+categories: 
+ - JavaScript
+ - requirejs
+tags: 
+ - JavaScript
+ - requirejs
 ---
 
 ## requirejs是什么

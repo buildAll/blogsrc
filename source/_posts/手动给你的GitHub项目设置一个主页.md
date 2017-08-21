@@ -1,12 +1,17 @@
+---
 title: 手动给你的GitHub项目设置一个主页
 date: 2015-10-23 22:46:17
-categories: 开发工具
-tags: GitHub
+excerpt: '你在GitHub上建立的每个项目(repository)都是可以拥有独立的主页的， 如果你还不知道如何完成这件事，希望这篇文章对你有所帮助。'
+banner: 
+  url: /images/github-logo.png
+categories: 
+ - Tools
+ - GitHub
+tags: 
+ - GitHub
 ---
 
 你在GitHub上建立的每个项目(repository)都是可以拥有独立的主页的， 如果你还不知道如何完成这件事，希望这篇文章对你有所帮助。
-
-<!--more-->
 
 GitHub官网有英文版的教程， [Creating Project Pages manually](https://help.github.com/articles/creating-project-pages-manually/)。如果你不喜欢读英文的文章，那么就继续往下读吧。
 

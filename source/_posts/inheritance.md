@@ -1,7 +1,14 @@
+---
 title: 用代码说明JavaScript里的继承
 date: 2015-11-06 10:45:42
-categories: JavaScript
-tags: JS继承
+excerpt: 'JavaScript是通过prototype来实现继承的。也就是人们常说的"原型继承"。本文的目的就是用代码来说明，到底什么是原型继承。JavaScript里有两个“原型”...'
+banner:
+  url: /images/javascript_logo/js.jpg
+categories: 
+ - JavaScript
+tags: 
+ - JavaScript
+ - JS继承
 ---
 
 JavaScript是通过prototype来实现继承的。也就是人们常说的"原型继承"。

@@ -1,11 +1,20 @@
+---
 title: 用standard来管理JavaScript代码规范
 date: 2017-08-12 09:48:07
-tags: JavaScript
+excerpt: 怎么才能使前端团队写的JavaScript代码都有统一的风格、符合规范呢? 试试本文介绍的JavaScrtip规范库standard吧...
+banner:
+  url: /images/jsstandard/standard_logo.png
+  height: 500
+categories: 
+  - JavaScript
+  - standard
+tags: 
+- JavaScript
 ---
-
 怎么才能使前端团队写的JavaScript代码都有统一的风格、符合规范呢?
 
 要解决这个问题大概要做下面几件事:
+
 1. 制定规范标准
 2. 写代码时执行代码规范
 3. 检查代码是否符合规范

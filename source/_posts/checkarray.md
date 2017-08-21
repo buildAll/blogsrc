@@ -1,7 +1,11 @@
 title: How to Check If it is Array?
 date: 2015-11-21 15:08:20
-tags: JavaScript
-categories: JavaScript
+banner:
+  url: /images/javascript_logo/js.jpg
+categories: 
+ - JavaScript
+tags: 
+ - JavaScript
 ---
 
 Got some instruction about how to check if a variable is Array in JavaScript from this [book](https://github.com/lxj/javascript.patterns/blob/master/chapter3.markdown).

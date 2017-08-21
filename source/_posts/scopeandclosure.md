@@ -1,6 +1,13 @@
+---
 title: 作用域和闭包--读《你不知道的JavaScript》
 date: 2016-04-26 11:58:35
-tags: JavaScript
+excerpt: '本文是在看完《你不知道的JavaScript》这本书之后整理而成。本文中所有的代码可以在这里找到。如果你不想读下面的文字，可以直接clone代码并运行，然后结合代码和注释，试着去理解作用域和闭包的概念。'
+banner:
+  url: /images/javascript_logo/js.jpg
+categories: 
+ - JavaScript
+tags: 
+ - JavaScript
 ---
 
 本文是在看完《你不知道的JavaScript》这本书之后整理而成。

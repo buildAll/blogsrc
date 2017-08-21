@@ -1,8 +1,16 @@
+---
 title: 现在开始用vim开发Web前端吧
 subtitle: web前端工程师vim入门指南
+excerpt: 如果你是一名web前端工程师并且没有vim使用经验的话，那么这篇博文就是为你准备的。 
+banner:
+  url: /images/vim-logo.png
 date: 2015-12-09 10:39:43
-categories: 开发工具
-tags: vim, front-end tool
+categories: 
+ - Tools
+ - vim
+tags: 
+ - vim 
+ - front-end tool 
 ---
 
 如果你是一名web前端工程师并且没有vim使用经验的话，那么这篇博文就是为你准备的。
