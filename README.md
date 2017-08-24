@@ -1,1 +1,1 @@
-A hexo project of [my blog](codinghigh.cn)
+A hexo project of [my blog](https://buildall.github.io)
