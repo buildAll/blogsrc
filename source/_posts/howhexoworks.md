@@ -100,6 +100,8 @@ hexo简洁、强大的功能来自于自身优雅的系统设计:
 
 希望读完这篇文章你能对hexo本身有更深入的理解，也能通过hexo的代码设计，对自己以后写出更优雅的代码有所启发。
 
+对于本文或者hexo有任何问题或评论，请到[这个](https://github.com/buildAll/buildall.github.io/issues/3)git issue页面给我留言吧。
+
 _赵彪原创，请随意转载，但务必保留作者署名和原文链接_
 
 {% limg support.png %}
