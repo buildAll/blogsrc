@@ -5,10 +5,10 @@ excerpt: 怎么才能使前端团队写的JavaScript代码都有统一的风格�
 banner:
   url: /images/jsstandard/standard_logo.png
   height: 500
-categories: 
+categories:
   - JavaScript
   - standard
-tags: 
+tags:
 - JavaScript
 ---
 怎么才能使前端团队写的JavaScript代码都有统一的风格、符合规范呢?
@@ -104,5 +104,6 @@ standard应该是当前最好用的JS代码规范库，它无须更多配置，�
 
 关于standard，如果你有任何问题可以来[这里](https://github.com/buildAll/buildall.github.io/issues/2)一起讨论。
 
+_赵彪原创，请随意转载，但务必保留作者署名和原文链接_
 
-_赵彪原创，转载请注明出处_
+{% limg support.png %}

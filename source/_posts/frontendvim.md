@@ -1,16 +1,16 @@
 ---
 title: 现在开始用vim开发Web前端吧
 subtitle: web前端工程师vim入门指南
-excerpt: 如果你是一名web前端工程师并且没有vim使用经验的话，那么这篇博文就是为你准备的。 
+excerpt: 如果你是一名web前端工程师并且没有vim使用经验的话，那么这篇博文就是为你准备的。
 banner:
   url: /images/vim-logo.png
 date: 2015-12-09 10:39:43
-categories: 
+categories:
  - Tools
  - vim
-tags: 
- - vim 
- - front-end tool 
+tags:
+ - vim
+ - front-end tool
 ---
 
 如果你是一名web前端工程师并且没有vim使用经验的话，那么这篇博文就是为你准备的。
@@ -293,8 +293,9 @@ vim作为一款经典的老派编辑器能够存在这么多年，一定有它�
 
 关于vim，如果你有任何问题可以来[这里](https://github.com/buildAll/buildall.github.io/issues/1)一起讨论。
 
-_赵彪原创，转载请注明出处_
+_赵彪原创，请随意转载，但务必保留作者署名和原文链接_
 
+{% limg support.png %}
 <script>
     function removeImgBorder() {
         var imgs = document.getElementsByTagName('img');

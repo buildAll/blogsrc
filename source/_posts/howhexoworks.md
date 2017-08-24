@@ -1,15 +1,15 @@
 ---
 title: hexo是怎么工作的
+tags:
+  - hexo
 excerpt: '你可能用过hexo(或者jekyll)来搭建自己的博客网站, 可是从hexo init 到 hexo deploy之间发生了什么呢...'
-date: 2017-08-20 11:02:28
 banner:
   url: /images/howhexoworks/hexo_logo.png
   height: 400
 categories:
- - HowItWorks
- - hexo
-tags:
- - hexo
+  - HowItWorks
+  - hexo
+date: 2017-08-20 11:02:28
 ---
 你可能用过hexo(或者jekyll)来搭建自己的博客网站。通常我们在安装、配置完成hexo之后，借助hexo，一般通过以下步骤，就可以完成一篇博客的编写及发布，真是方便极了：
 

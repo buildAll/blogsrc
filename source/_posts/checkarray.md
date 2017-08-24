@@ -2,9 +2,9 @@ title: How to Check If it is Array?
 date: 2015-11-21 15:08:20
 banner:
   url: /images/javascript_logo/js.jpg
-categories: 
+categories:
  - JavaScript
-tags: 
+tags:
  - JavaScript
 ---
 
@@ -35,3 +35,7 @@ if (typeof Array.isArray === undefined) {
   };
 }
 ```
+
+_赵彪原创，请随意转载，但务必保留作者署名和原文链接_
+
+{% limg support.png %}
