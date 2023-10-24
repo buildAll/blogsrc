@@ -4,12 +4,15 @@ date: 2015-11-16 23:38:02
 excerpt: '我写了一个base.sass文件用于生成项目中的base.css。你可以在这里看到源码https://github.com/buildAll/base.sass-for-base.css/blob/master/base.sass,下面贴出base.sass的代码'
 banner:
   url: /images/sass-logo.png
+cover: /images/sass-logo.png
 categories:
  - CSS
  - sass
 tags:
  - sass
 ---
+
+{% limg sass-logo.png  %}
 
 我写了一个base.sass文件用于生成项目中的base.css。你可以在这里看到源码
 
@@ -189,9 +192,3 @@ $list: 5 10 15 20 25 30 50 100
     padding-right: #{$pr}px
 
 ```
-
-_赵彪原创，请随意转载，但务必保留作者署名和原文链接_
-
-{% limg support.png %}
-
-

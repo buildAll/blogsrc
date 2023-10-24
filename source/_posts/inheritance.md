@@ -4,12 +4,16 @@ date: 2015-11-06 10:45:42
 excerpt: 'JavaScript是通过prototype来实现继承的。也就是人们常说的"原型继承"。本文的目的就是用代码来说明，到底什么是原型继承。JavaScript里有两个“原型”...'
 banner:
   url: /images/javascript_logo/js.jpg
+cover: /images/javascript_logo/js.jpg
 categories:
  - JavaScript
 tags:
  - JavaScript
  - JS继承
 ---
+
+
+{% limg javascript_logo/js.jpg %}
 
 JavaScript是通过prototype来实现继承的。也就是人们常说的"原型继承"。
 
@@ -301,7 +305,3 @@ B行在函数Animal的调用Animal()前加上了关键字new，像这样在函�
 1. JavaScript通过设置构造函数的prototype对象，从而决定了通过new构造出来的对象的{%raw%}__proto__{%endraw%}属性。
 2. 因为每个对象都具备{%raw%}__proto__{%endraw%}属性，从而实现了一条原型链。
 3. 又因为JavaScript可以省略{%raw%}__proto__{%endraw%}去调用{%raw%}__proto__{%endraw%}属性上的方法，所以我们就可以轻松的访问整条原型链上的属性了。
-
-_赵彪原创，请随意转载，但务必保留作者署名和原文链接_
-
-{% limg support.png %}

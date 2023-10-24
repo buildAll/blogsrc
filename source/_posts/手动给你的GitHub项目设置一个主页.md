@@ -4,12 +4,15 @@ date: 2015-10-23 22:46:17
 excerpt: '你在GitHub上建立的每个项目(repository)都是可以拥有独立的主页的， 如果你还不知道如何完成这件事，希望这篇文章对你有所帮助。'
 banner:
   url: /images/github-logo.png
+cover: /images/github-logo.png
 categories:
  - Tools
  - GitHub
 tags:
  - GitHub
 ---
+
+{% limg github-logo.png %}
 
 你在GitHub上建立的每个项目(repository)都是可以拥有独立的主页的， 如果你还不知道如何完成这件事，希望这篇文章对你有所帮助。
 
@@ -66,14 +69,3 @@ http(s)://<username>.github.io/<projectname>
 
 
 --END--
-
-_赵彪原创，请随意转载，但务必保留作者署名和原文链接_
-
-{% limg support.png %}
-
-
-
-
-
-
-

@@ -2,8 +2,7 @@
 title: 快速上手require.js
 date: 2015-11-23 16:07:19
 excerpt: 'requriejs是一个js插件，这个插件可以在各种js运行环境里自动、异步加载js文件。前端js代码越来越多，如果使用模块化开发，可以降低代码藕合，提高代码的可维护性。而requirejs可以比较好的支持的js模块化开发思想。'
-banner:
-  url: /images/javascript_logo/js.jpg
+cover: /images/javascript_logo/js.jpg
 categories:
  - JavaScript
  - requirejs
@@ -11,6 +10,8 @@ tags:
  - JavaScript
  - requirejs
 ---
+
+{% limg javascript_logo/js.jpg %}
 
 ## requirejs是什么
 requriejs是一个js插件，这个插件可以在各种js运行环境里自动、异步加载js文件。
@@ -160,9 +161,3 @@ paths中定义了各个模块(既各个.js文件)相对于baseUrl的路径。pat
 可以看出requirejs的核心思想，就是把一个个单独的js文件“设定成”模块。然后各个模块间再通过向define()传入模块名，来互相引用。
 
 本文只介绍了requirejs的一般使用方法，按照本文的做法已经可以在项目中去使用requirejs了。更详细的内容还请参阅[requirejs官方网站](http://requirejs.org/)。
-
-_赵彪原创，请随意转载，但务必保留作者署名和原文链接_
-
-{% limg support.png %}
-
-

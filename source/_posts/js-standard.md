@@ -5,12 +5,16 @@ excerpt: 怎么才能使前端团队写的JavaScript代码都有统一的风格�
 banner:
   url: /images/jsstandard/standard_logo.png
   height: 500
+cover: /images/jsstandard/standard_logo.png
 categories:
   - JavaScript
   - standard
 tags:
 - JavaScript
 ---
+
+{% limg jsstandard/standard_logo.png %}
+
 怎么才能使前端团队写的JavaScript代码都有统一的风格、符合规范呢?
 
 要解决这个问题大概要做下面几件事:
@@ -103,7 +107,3 @@ $npm run lint
 standard应该是当前最好用的JS代码规范库，它无须更多配置，基本做到了安装即用，而且还有很多扩展功能，应该能够满足大多数项目的代码检查需求。
 
 关于standard，如果你有任何问题可以来[这里](https://github.com/buildAll/buildall.github.io/issues/2)一起讨论。
-
-_赵彪原创，请随意转载，但务必保留作者署名和原文链接_
-
-{% limg support.png %}

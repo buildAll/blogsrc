@@ -4,11 +4,14 @@ date: 2016-04-26 11:58:35
 excerpt: '本文是在看完《你不知道的JavaScript》这本书之后整理而成。本文中所有的代码可以在这里找到。如果你不想读下面的文字，可以直接clone代码并运行，然后结合代码和注释，试着去理解作用域和闭包的概念。'
 banner:
   url: /images/javascript_logo/js.jpg
+cover: /images/javascript_logo/js.jpg
 categories:
  - JavaScript
 tags:
  - JavaScript
 ---
+
+{% limg javascript_logo/js.jpg %}
 
 本文是在看完《你不知道的JavaScript》这本书之后整理而成。
 本文中所有的代码可以在[这里](https://github.com/buildAll/JavaScript_Scope-Closure)找到。如果你不想读下面的文字，可以直接clone代码并运行，然后结合代码和注释，试着去理解作用域和闭包的概念。
@@ -383,8 +386,3 @@ ReferenceError: yoho is not defined
 按照《JavaScript权威指南》里的说法，闭包并不是JS特有的，它是一种计算机术语，在计算机科学中，将函数和作用域联系起来的这种机制就是闭包，所以理论上所有的JS函数都可以被认为是闭包。但是我们平时说的闭包，更多的是指的外部函数运行时产生的作用域对象被保留的现象。
 
 《你不知道的JavaScript》这本书在github上有英文的[开源版本](https://github.com/getify/You-Dont-Know-JS)，任何人都可以为其贡献内容，该项目已经有接近30000star。目前其中的部分章节被翻译并出版成纸质书籍，感兴趣的话可以[去看看](http://www.amazon.cn/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript-%E7%BE%8E-%E8%BE%9B%E6%99%AE%E6%A3%AE/dp/B0153179VI?ie=UTF8&keywords=%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript&qid=1461847068&ref_=sr_1_1&sr=8-1)。
-
-
-_赵彪原创，请随意转载，但务必保留作者署名和原文链接_
-
-{% limg support.png %}

@@ -6,11 +6,15 @@ excerpt: '你可能用过hexo(或者jekyll)来搭建自己的博客网站, 可�
 banner:
   url: /images/howhexoworks/hexo_logo.png
   height: 400
+cover: /images/howhexoworks/hexo_logo.png
 categories:
   - HowItWorks
   - hexo
 date: 2017-08-20 11:02:28
 ---
+
+{% limg howhexoworks/hexo_logo.png  %}
+
 你可能用过hexo(或者jekyll)来搭建自己的博客网站。通常我们在安装、配置完成hexo之后，借助hexo，一般通过以下步骤，就可以完成一篇博客的编写及发布，真是方便极了：
 
 ```shell
@@ -102,9 +106,6 @@ hexo简洁、强大的功能来自于自身优雅的系统设计:
 
 对于本文或者hexo有任何问题或评论，请到[这个](https://github.com/buildAll/buildall.github.io/issues/3)git issue页面给我留言吧。
 
-_赵彪原创，请随意转载，但务必保留作者署名和原文链接_
-
-{% limg support.png %}
 
 <script>
 console.log('hello, how are you?')
